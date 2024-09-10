@@ -1,7 +1,8 @@
 # Laporan Praktikum 2 Sistem Operasi
 ## 1. Pendahuluan
 ### 1.1 Latar Belakang
-Sistem operasi linux adalah salah satu sistem operasi open-source yang menyediakan platform yang aman dan stabil untuk berbagai layanan aplikasi. Salah satu komponen dalam pengelolaan sistem linux adalah sistem file.
+Sistem operasi linux adalah salah satu sistem operasi open-source yang menyediakan platform yang aman dan stabil untuk berbagai layanan aplikasi. Salah satu komponen dalam pengelolaan sistem linux adalah sistem file. Sistem file berfungsi sebagai struktur organisasi data di media penyimpanan. Sistem file di linux mengatur bagaimana data disimpan, diakses, dikelola, dan struktur organisasi file serta direktori. Dengan sistem file yang terorganisir penggunabdapat dengan mudah dalam mengelola file, mengakses data, dan memastikan integritas serta keamanan data. <p/>
+Sistem file di linux memainkan peran kunci dalam pengelolaan data dan memfasilitasi interaksi yang efisien antara pengguna dan perangkat penyimpanan. Struktur sistem file Linux diatur dalam bentuk hierarki pohon yang dimulai dari root directory (/), yang merupakan titik awal dari semua path di sistem. Di bawah root directory, terdapat berbagai direktori penting yang menyimpan berbagai jenis data dan konfigurasi, seperti /bin untuk binary executables, /etc untuk file konfigurasi sistem, /home untuk direktori home pengguna, dan /var untuk file yang sering berubah seperti log dan cache.
 
 ### 1.2 Tujuan
 1.  Mengenal organisasi File di Linux. <br/>
