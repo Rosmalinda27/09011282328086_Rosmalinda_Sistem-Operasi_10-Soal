@@ -1,4 +1,23 @@
-# 09011282328086_Rosmalinda_Sistem-Operasi_Tugas Praktikum 10-Soal
+# Laporan Praktikum 2 Sistem Operasi
+## 1. Pendahuluan
+### 1.1 Latar Belakang
+Sistem operasi linux adalah salah satu sistem operasi open-source yang menyediakan platform yang aman dan stabil untuk berbagai layanan aplikasi. Salah satu komponen dalam pengelolaan sistem linux adalah sistem file.
+
+### 1.2 Tujuan
+1.  Mengenal organisasi File di Linux. <br/>
+2.  Menciptakan dan manipulasi direktori. <br/>
+3.  Mempelajari ijin akses (permission) dari file dan direktori. <br/>
+4.  Mengenal konsep Owner dan Group. <br/>
+5.  Mengerti konsep Link dan symbolic link. <br/>
+   
+### 1.3 Alat dan Bahan
+1.  Laptop
+2.  Command Line Linux
+
+### 1.4 Dasar Teori
+
+
+## 2. Pembahasan
 1. Lihat peralatan I/O, character device, yang ada pada system komputer. <p/>
    **Melihat peralatan I/O keseluruhan :** <br/>
    <img src="https://github.com/user-attachments/assets/6c7ff978-860c-4213-abf8-523f278bd71d" width=500/>
@@ -61,5 +80,7 @@
     <img src="https://github.com/user-attachments/assets/eaf11167-9289-44fa-99da-8eb47537c1de" width=500/>
     <br/>
 
+## 3. Penutup
+### 3.1 Kesimpulan
 
    
