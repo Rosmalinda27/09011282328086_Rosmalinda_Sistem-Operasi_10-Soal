@@ -16,7 +16,7 @@ Sistem file di linux memainkan peran kunci dalam pengelolaan data dan memfasilit
 2.  Command Line Linux
 
 ### 1.4 Dasar Teori
-
+1. Organisasi file : Sistem file linux disusun secara hierarkis dalam bentuk struktur pohon yang berawal dari root directory (/).
 
 ## 2. Pembahasan
 1. Lihat peralatan I/O, character device, yang ada pada system komputer. <p/>
